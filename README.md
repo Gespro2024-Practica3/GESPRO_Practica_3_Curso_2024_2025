@@ -54,5 +54,16 @@ En GitHub también podemos observar que el pull-request se ha cerrado correctame
 
 
 ## Capturas GitKraken
+El grafico final obtenido despues de realizar todos los commits es el siguiente:
+
+![image](https://github.com/user-attachments/assets/a34c3a71-3cd0-4423-8234-d4ad7dca8f9b)
+
+Esta seria una imagen del primer commit realizado:
+
+![image](https://github.com/user-attachments/assets/5ea8e14d-c1d0-479f-b8a5-546f0d223a6f)
+
+Esta seria una imagen del ultimo commit realizado:
+
+![image](https://github.com/user-attachments/assets/dcde9808-fe14-4e06-a34e-3ce082fd286d)
 
 ## Capturas GitHub
