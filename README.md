@@ -67,3 +67,20 @@ Esta seria una imagen del ultimo commit realizado:
 ![image](https://github.com/user-attachments/assets/dcde9808-fe14-4e06-a34e-3ce082fd286d)
 
 ## Capturas GitHub
+La información del proyecto de Github obtenida desde la opción de menú "Insights→Pulse" es la siguiente:
+
+En esta imagen se observa el numero de PRQs e Issues cerrados ademas de los autores que han realizado commits:
+
+![image](https://github.com/user-attachments/assets/18167e59-553f-4bda-a163-0cc978426865)
+
+En esta imagen se ve cada PRQs e Issues realizado y por cuantas personas:
+
+![image](https://github.com/user-attachments/assets/793e0f98-1ba0-4ff9-83a8-c4d5837c86f2)
+
+La información del proyecto de Github obtenida desde la opción menú "Insights→ Code frequency" es la siguiente:
+
+![image](https://github.com/user-attachments/assets/12b1b265-1fa3-4eeb-9e95-ca99d8cd175d)
+
+Captura con la relación de las PRQs realizadas cerradas:
+
+![image](https://github.com/user-attachments/assets/44893ce6-04e8-4852-87d2-d942f59a439e)
